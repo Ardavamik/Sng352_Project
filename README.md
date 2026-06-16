@@ -41,3 +41,14 @@ python -m unittest testfile.py
 
 - Revert the source code back to its original form
 - Repeat the process for the next unit test
+
+# Efe-Project Testing Instructions
+
+## Setup
+
+1. **(Optional)** Visit the GitHub repository: [Ardavamik/Sng352_Project](https://github.com/Ardavamik/Sng352_Project.git)
+2. Download the folder [Tests_of_Efe]
+
+## Testing Procedure
+
+- All tests and their explanations are given in the [sng 352.ipynb] jupyter notebook file.
